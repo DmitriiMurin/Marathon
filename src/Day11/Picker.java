@@ -59,4 +59,5 @@ public class Picker<salary> implements Worker {
     }
 
 //    test
+//    TEST2
 }
