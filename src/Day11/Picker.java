@@ -57,4 +57,6 @@ public class Picker<salary> implements Worker {
                 ", isPayed=" + isPayed +
                 '}';
     }
+
+//    test
 }
